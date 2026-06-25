@@ -83,14 +83,6 @@ I am interested in:
 
 ---
 
-## Python Libraries I Am Learning
-
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
 ---
 
 ## My Learning Goals
@@ -121,62 +113,6 @@ Examples:
 - Simple automation scripts
 - Unit converter
 
----
-
-### Data Analysis Projects
-
-Projects focused on cleaning, analysing, and visualising data.
-
-Examples:
-
-- Sales data analysis
-- Fitness progress tracker
-- Weather data analysis
-- Customer data summary
-- CSV data cleaner
-- Basic dashboard using Python
-
----
-
-### Machine Learning Projects
-
-Beginner machine learning projects created while learning core ML concepts.
-
-Examples:
-
-- House price prediction
-- Student score prediction
-- Customer classification
-- Iris flower classification
-- Basic recommendation system
-- Simple image classification experiment
-
----
 
 
-## Progress Tracker
-
-| Area | Status |
-|---|---|
-| Python Basics | In Progress |
-| Git and GitHub | In Progress |
-| NumPy | Learning |
-| Pandas | Learning |
-| Data Visualisation | Learning |
-| Machine Learning Basics | Starting |
-| Real-World Projects | Planned |
-
----
-
-## What You Will Find Here
-
-- Beginner Python projects
-- Practice exercises
-- Data science notebooks
-- Machine learning experiments
-- Notes from my learning journey
-- Step-by-step project improvements
-- Simple explanations of what I am learning
-
----
 
