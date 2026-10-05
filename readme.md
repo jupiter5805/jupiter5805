@@ -1,322 +1,296 @@
 # Hi, I'm Muhammad Usman Mamoon 👋
 
-## Data Engineering · AI & Machine Learning · Cloud Engineering
+## Data Engineering · Cloud · AI/ML
 
-I build data-driven applications and cloud solutions using **Python, SQL, PostgreSQL and AWS**, with hands-on experience across **data engineering, machine learning, neural networks, transformer architecture and Large Language Models**.
+I build data pipelines, backend systems and cloud-based data solutions using **Python, SQL, PostgreSQL and AWS**.
 
-My recent work has taken me from building automated ETL pipelines and AWS infrastructure to developing machine-learning models from first principles and exploring how **LLMs and modern AI systems** are designed, customised and applied.
+My route into Data Engineering comes from both technology and business. I have spent years using data to operate and grow my own manufacturing business, **Pluto Packaging**, before formalising and expanding that experience through intensive Data Engineering, AI & Machine Learning training.
 
-My background spans engineering, project delivery, operations and entrepreneurship, which means I tend to look at technology from both sides — **how it works technically and what problem it actually solves**.
+I’m particularly interested in the point where **data engineering, cloud infrastructure and AI meet** — building reliable systems that collect, transform, validate and serve data for analytics and intelligent applications.
 
 ---
 
 # 🧰 Technology Stack
 
-## 🐍 Programming
+### Programming & Data
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**Python · Object-Oriented Programming · Modular Design · Async/Await**
-
----
-
-# 📊 Data Engineering
-
-<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white" />
 </p>
 
-**ETL · Data Pipelines · PostgreSQL · CTEs · Window Functions · Data Modelling · Normalisation · Dimensional Modelling · Star Schema · Data Warehouses · Data Lakes · Lakehouse Architecture · Data Mesh**
+**Python · SQL · PostgreSQL · Pandas · ETL · Data Pipelines · Data Modelling · Normalisation · Dimensional Modelling · Star Schema · Data Warehousing · Parquet**
 
----
-
-# 🤖 Artificial Intelligence & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Neural_Networks-EE4C2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" />
-</p>
-
-### Machine Learning
-
-* Decision Trees
-* Perceptrons
-* Binary Classification
-* Model Training
-* Prediction & Evaluation
-* Gradient-based learning
-
-### Neural Networks
-
-* Perceptron architecture
-* Activation functions
-* Weights and biases
-* Forward prediction
-* Training and optimisation
-* Foundations of multi-layer neural networks
-
-### Transformers & LLMs
-
-* Transformer architecture
-* Attention mechanisms
-* Large Language Model fundamentals
-* LLM customisation
-* Generative AI concepts
-* Understanding how modern language models process and generate information
-* Applying AI within software and data-engineering workflows
-
----
-
-# ☁️ AWS & Cloud Engineering
+### Cloud & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-</p>
-
-**AWS:**
-EC2 · Lambda · S3 · RDS · CloudWatch · IAM · Athena · Glue · Step Functions · EventBridge · SNS
-
-**Tools:**
-AWS CLI · AWS SDK
-
----
-
-# ⚙️ DevOps & Infrastructure
-
-<p>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-**Terraform · Infrastructure as Code · CI/CD · GitHub Actions · Git · Branching · Pull Requests · Automated Deployment**
+**AWS Lambda · S3 · RDS · EC2 · CloudWatch · IAM · Athena · Glue · Step Functions · EventBridge · SNS · Terraform · Infrastructure as Code**
 
----
-
-# 🌐 Backend Engineering
+### Backend & Software Engineering
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-**FastAPI · REST APIs · HTTP · JWT Authentication · Authorisation · bcrypt · Argon2 · Async/Await · Caching · Rate Limiting**
-
----
-
-# 🧪 Testing & Software Engineering
-
-<p>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-**Test-Driven Development · pytest · Integration Testing · OOP · Debugging · Logging · Modular Architecture**
+**FastAPI · REST APIs · JWT · Async/Await · pytest · TDD · Integration Testing · Git · GitHub Actions · CI/CD**
+
+### AI & Machine Learning
+
+**scikit-learn · TF-IDF · Logistic Regression · Decision Trees · Perceptrons · Neural Networks · Transformers · LLMs · RAG · Sentence Transformers · Hugging Face**
 
 ---
 
 # 🚀 Featured Projects
 
+## 🏭 Pluto Data Platform — Commercial Data Engineering Project
+
+**Python · Pandas · Excel · Parquet · pytest · ETL · Data Quality**
+
+Building an internal Data Engineering platform for **Pluto Packaging**, a manufacturing business I founded and operate.
+
+The platform is designed to replace fragmented spreadsheet-based reporting with a structured, testable and analytics-ready data pipeline.
+
+### Current Engineering Work
+
+- Profiled **4 operational workbooks containing 61 worksheets**
+- Consolidated **27 customer ledgers into 897 standardised transactions**
+- Built automated ingestion from inconsistent Excel structures
+- Standardised inconsistent transaction schemas and column names
+- Created staging and curated data layers
+- Added transaction classification for sales, payments, tax, advances and returns
+- Implemented data-quality checks for invalid dates, missing dates, negative values and inconsistent ledger records
+- Added automated pytest coverage
+- Generated CSV and Parquet analytics datasets
+- Kept real commercial data isolated from the public repository
+
+### Architecture
+
+```text
+Operational Excel Data
+        ↓
+Python / Pandas Ingestion
+        ↓
+Raw / Staging Layer
+        ↓
+Data Validation
+        ↓
+Transformation & Classification
+        ↓
+Curated Parquet Data
+        ↓
+PostgreSQL
+        ↓
+Analytics Models
+        ↓
+Power BI
+```
+
+The platform is being developed progressively toward **PostgreSQL, automated cloud processing and business intelligence dashboards**.
+
+🔗 **[View Project](https://github.com/jupiter5805/pluto-data-platform)**
+
+---
+
 ## ☁️ Automated Cloud Data Pipeline — ToteSys
 
 **Python · SQL · PostgreSQL · AWS Lambda · S3 · EventBridge · CloudWatch · SNS · IAM · Terraform · Parquet · pytest**
 
-Built an automated end-to-end cloud data pipeline that extracts operational data from PostgreSQL, transforms it and loads analytics-ready datasets into a cloud data warehouse.
+Built an automated end-to-end cloud Data Engineering pipeline that extracts operational PostgreSQL data, transforms it and produces analytics-ready datasets using serverless AWS infrastructure.
 
-### Engineering Highlights
+### Highlights
 
-* Automated ETL pipeline
-* Incremental ingestion
-* Dimensional modelling
-* Star Schema
-* Parquet data storage
-* Serverless AWS processing
-* Event-driven execution
-* Infrastructure as Code
-* Automated testing
-* Monitoring and failure alerts
-* IAM security
+- Automated ETL
+- Incremental ingestion
+- PostgreSQL source system
+- Dimensional modelling
+- Parquet processing
+- AWS Lambda
+- S3 data storage
+- Event-driven execution
+- Terraform Infrastructure as Code
+- Automated testing
+- Monitoring and alerts
+- IAM security
 
 🔗 **[View Project & README](https://github.com/jupiter5805/ETL-Team-Project)**
 
 ---
 
-## 🧠 Perceptron Machine Learning Model
+## 🤖 AI-Powered SMS Spam Classifier & RAG
 
-**Python · NumPy · Machine Learning · Neural Networks · pytest · TDD**
+**Python · scikit-learn · Pandas · TF-IDF · Logistic Regression · TinyLlama · Sentence Transformers · RAG · PyTorch · pytest · GitHub Actions**
 
-Built a binary classification model from first principles to understand what happens underneath higher-level machine-learning frameworks.
+Built an end-to-end NLP application for SMS spam detection.
 
-Implemented:
+### Results
 
-* Perceptron architecture
-* Weights and biases
-* Sigmoid activation
-* Probability prediction
-* Classification
-* Model training
-* Gradient-based updates
-* Automated testing
-* Predictions on unseen inputs
+- **97.8% classification accuracy**
+- **91.3% spam F1 score**
+- TF-IDF feature engineering
+- Logistic Regression classification
+- Confidence scoring
+- CLI/chatbot interface
+- Batch processing
+- Semantic retrieval using Sentence Transformers
+- TinyLlama conversational responses
+- RAG-based contextual explanations
+- Automated testing and CI
 
-This project gave me hands-on experience with the mathematical and programming foundations behind neural networks.
-
-🔗 **Project repository:** *Add GitHub link*
-
----
-
-## 🤖 AI, Transformers & Large Language Models
-
-Studied and experimented with the foundations behind modern generative AI systems, progressing from traditional machine-learning models into **neural networks, transformer architecture and Large Language Models**.
-
-Areas covered include:
-
-* Neural-network foundations
-* Transformer architecture
-* Attention
-* Language-model concepts
-* LLM customisation
-* Generative AI
-* AI-assisted engineering
-* Applying LLM capabilities to real technical workflows
+🔗 **[View Project](https://github.com/jupiter5805/sms-spam-classifier)**
 
 ---
 
-## 🌐 Plus-One Event API
+## 🌐 PlusOne Event API
 
-**Python · FastAPI · PostgreSQL · JWT · Terraform · AWS EC2 · pytest**
+**Python · FastAPI · PostgreSQL · SQL · JWT · bcrypt · pytest · REST APIs**
 
-Built a backend application supporting user registration, authentication, event creation and RSVP workflows.
+Built a secure backend API for creating and managing events and RSVPs.
 
-### Features
+### Highlights
 
-* REST API architecture
-* PostgreSQL relational database
-* User registration and login
-* JWT authentication
-* Event management
-* RSVP handling
-* Duplicate request handling
-* Automated API testing
-* AWS deployment
+- FastAPI REST architecture
+- PostgreSQL relational database
+- User registration and authentication
+- JWT authorisation
+- Event creation and management
+- RSVP workflows
+- Duplicate RSVP protection
+- SQL analytics
+- **47 automated integration tests**
 
-🔗 **Project repository:** *Add GitHub link*
-
----
-
-## 🔄 Serverless AWS Workflow
-
-**Python · AWS Lambda · Step Functions · S3 · IAM · CloudWatch · REST APIs · Terraform**
-
-Built a serverless data-processing workflow using multiple AWS Lambda functions coordinated through AWS Step Functions.
-
-The workflow extracts currency-exchange data from an external API, processes it and passes data between individual stages of the pipeline.
+🔗 **[View Project](https://github.com/jupiter5805/py-nc-plus-one)**
 
 ---
 
-## 🚀 Automated AWS Deployment
+## 🚀 Orion 7 Rover Mission Control
 
-**Python · Terraform · AWS Lambda · GitHub Actions · Git · pytest**
+**Python · OOP · TDD · pytest · JSON · Logging · CLI · Custom Exceptions**
 
-Built a CI/CD workflow that automatically tests code and deploys AWS Lambda infrastructure using GitHub Actions and Terraform.
+Built a layered Python mission-control application for processing and executing rover missions across bounded plateaus.
+
+### Highlights
+
+- Object-oriented architecture
+- Multiple rover support
+- Command parsing and validation
+- Boundary protection
+- Mission logging
+- JSON mission archives
+- Interactive CLI
+- Unit and integration testing
+
+🔗 **[View Project](https://github.com/jupiter5805/py-orion-rover-mission)**
 
 ---
 
-# 🧩 What I've Worked Across
+## 🔄 Mini Sales ETL Pipeline
+
+**Python · CSV · JSON · pytest · ETL**
+
+Built a lightweight end-to-end ETL pipeline to practise the core stages of Data Engineering.
 
 ```text
-DATA
-│
-├── Python
-├── SQL
-├── PostgreSQL
-├── ETL
-├── Data Pipelines
-├── Data Modelling
-├── Star Schema
-└── Data Warehousing
-         │
-         ▼
-CLOUD
-│
-├── AWS
-├── Lambda
-├── S3
-├── RDS
-├── EC2
-├── Glue
-├── Athena
-├── Step Functions
-└── EventBridge
-         │
-         ▼
-SOFTWARE ENGINEERING
-│
-├── FastAPI
-├── REST APIs
-├── TDD
-├── pytest
-├── Git
-├── Terraform
-└── CI/CD
-         │
-         ▼
-AI & MACHINE LEARNING
-│
-├── Decision Trees
-├── Perceptrons
-├── Neural Networks
-├── Transformers
-├── LLMs
-└── Generative AI
+Raw CSV
+   ↓
+Extract
+   ↓
+Transform & Clean
+   ↓
+Aggregate
+   ↓
+Processed CSV + JSON
 ```
+
+Includes automated tests for ingestion, transformations and summary calculations.
+
+🔗 **[View Project](https://github.com/jupiter5805/mini-sales-etl)**
 
 ---
 
-# 🎯 Areas I'm Particularly Interested In
+# 🧠 What I'm Currently Building
 
-I’m interested in the point where **Data Engineering and AI meet** — building the infrastructure that collects, transforms and serves the data that modern analytical and AI systems depend on.
+My current focus is developing the **Pluto Data Platform** into a complete commercial analytics system covering:
 
-My current areas of interest include:
+```text
+Sales
+   │
+   ├── Customers
+   ├── Orders
+   └── Receivables
+         │
+         ▼
+Suppliers ── Purchases ── Payables
+         │
+         ▼
+Inventory ── Fabric ── Production
+         │
+         ▼
+PostgreSQL Analytics Layer
+         │
+         ▼
+Power BI
+```
 
-* Data Engineering
-* Cloud Data Platforms
-* Machine Learning
-* Generative AI
-* Large Language Models
-* Transformer Architecture
-* AI-assisted Engineering
-* Data Pipelines for AI/ML workloads
-* Automation
-* Scalable Cloud Architecture
+The aim is to connect real manufacturing operations with modern Data Engineering practices including:
+
+- automated ingestion
+- relational modelling
+- data-quality validation
+- dimensional modelling
+- orchestration
+- monitoring
+- cloud infrastructure
+- business intelligence
+
+---
+
+# 🎯 Current Areas of Interest
+
+- Data Engineering
+- Cloud Data Platforms
+- ETL / ELT
+- Data Quality & Observability
+- Data Warehousing
+- Analytics Engineering
+- AWS
+- AI/ML Data Infrastructure
+- Retrieval-Augmented Generation
+- Automation
 
 ---
 
 # 👨‍💻 Background
 
-Before moving into technology, I worked across **Civil Engineering, Project Management, Operations and Entrepreneurship**.
+Before specialising in Data Engineering, I worked across **Civil Engineering, project delivery, operations, management and entrepreneurship**.
 
-That background gave me experience dealing with real projects, clients, teams, deadlines and commercial decisions — something I now bring into the way I approach software, data and AI problems.
+As founder of Pluto Packaging, I have spent years using operational and commercial data to support **pricing, production, customers and business decisions**.
+
+I later formalised and expanded that experience through intensive training in **Data Engineering, cloud infrastructure, software engineering, AI and Machine Learning**.
+
+That combination means I approach technical problems from both sides:
+
+**How should we engineer it?**
+
+and
+
+**What business problem does it actually solve?**
 
 ---
 
 # 🌍 Outside Tech
 
-I’m a big automotive enthusiast and performance motorcyclist. I’ve organised car shows and even put together a **Fast & Furious premiere event**.
+I'm an automotive enthusiast and performance motorcyclist, and have organised car shows and a **Fast & Furious premiere event**.
 
-I’m also a long-time **Age of Empires II** player, enjoy story-driven games and anime, strength training, travelling and entrepreneurship.
+I also enjoy **Age of Empires II**, story-driven games, anime, strength training, travelling and entrepreneurship.
 
 ---
 
@@ -333,4 +307,3 @@ I’m also a long-time **Age of Empires II** player, enjoy story-driven games an
 </p>
 
 📍 Manchester, United Kingdom
-
