@@ -1,105 +1,187 @@
 # Hi, I'm Muhammad Usman Mamoon 👋
 
-Data Engineering · Cloud · AI/ML
+### Data Engineering · Cloud · AI/ML
 
-I build data pipelines, backend systems and cloud-based data solutions using Python, SQL and AWS.
+I like building things that turn messy data into something actually useful.
 
-My route into Data Engineering combines technology with real business experience. Before specialising technically, I spent several years using operational and commercial data to run and grow my manufacturing business, Pluto Packaging.
+My route into Data Engineering hasn't been the usual straight line. Before writing data pipelines, I was dealing with real customers, production, pricing and operational data while running my own manufacturing business, Pluto Packaging.
 
-I'm particularly interested in Data Engineering, cloud platforms, analytics engineering and the infrastructure that supports AI/ML systems.
+That eventually made me curious about what was happening behind the spreadsheets — how the data could be collected properly, automated, modelled, tested and turned into systems that help a business make better decisions.
 
----
+So now I build exactly that: data pipelines, cloud infrastructure, APIs, analytics platforms and the occasional ML system.
 
-## Technology Stack
-
-Python · SQL · PostgreSQL · Pandas · PySpark · Spark SQL · dbt · ETL/ELT · Data Modelling · Data Warehousing · Parquet · Delta Lake
-
-AWS · Lambda · S3 · RDS · EC2 · Athena · Glue · CloudWatch · EventBridge · Terraform · Docker · Apache Airflow
-
-FastAPI · REST APIs · pytest · TDD · Git · GitHub Actions · CI/CD
-
-scikit-learn · Transformers · RAG · Sentence Transformers · Hugging Face · LLMs
-
-Tableau · Databricks
+I'm especially interested in the space where **Data Engineering + Cloud + AI** start overlapping.
 
 ---
 
-## Featured Projects
+## 🧰 Technology Stack
 
-### 🏭 Pluto Data Platform — Ongoing
+### Data Engineering & Analytics
 
-Commercial Data Engineering platform built around real operational data from Pluto Packaging.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres" />
+</p>
 
-Transforms fragmented Excel-based business records into validated, analytics-ready PostgreSQL data models using Python, dbt, Airflow, Docker and automated data-quality testing, with Tableau used for business reporting.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="45" />
 
-[View Project](https://github.com/jupiter5805/pluto-data-platform)
+### Cloud & Infrastructure
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform" />
+</p>
 
-### ⚡ Databricks Taxi Data Pipeline
+### Backend & Engineering
 
-Built a Databricks analytics pipeline processing 250,000 NYC taxi journeys using PySpark, Spark SQL, Delta Lake and Databricks Volumes.
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,git,github,githubactions" />
+</p>
 
-Focused on distributed transformation, analytics modelling and visualisation.
+### AI & Machine Learning
 
-[View Project](https://github.com/jupiter5805/databricks-taxi-pipeline)
-
----
-
-### ☁️ ToteSys Automated Cloud Data Pipeline
-
-Built a serverless AWS data pipeline that extracts operational PostgreSQL data, transforms it into analytics-ready datasets and stores processed data in S3 and Parquet.
-
-Technologies include Python, PostgreSQL, AWS Lambda, S3, EventBridge, Terraform and automated testing.
-
-[View Project]
-
----
-
-### 🤖 AI-Powered SMS Spam Classifier
-
-Built an NLP application using TF-IDF and Logistic Regression, achieving 97.8% classification accuracy and a 91.3% spam F1 score.
-
-Extended with Sentence Transformers, RAG and TinyLlama-based conversational responses.
-
-[View Project](https://github.com/jupiter5805/sms-spam-classifier)
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
+</p>
 
 ---
 
-### 🌐 PlusOne Event API
+# 🚀 Featured Projects
 
-Built a PostgreSQL-backed FastAPI application for user authentication, event management and RSVP workflows.
+## 🏭 Pluto Data Platform
+### Commercial Data Engineering Platform · 🚧 Active Development
 
-Includes JWT authentication, relational modelling and automated integration testing.
+The project closest to me personally.
 
-[View Project]
+Instead of creating another synthetic dataset, I took operational data from **Pluto Packaging — the manufacturing business I founded —** and started engineering a proper data platform around it.
 
----
+What started as fragmented Excel records now flows through ingestion, validation, PostgreSQL, dbt analytics models and Airflow orchestration into a Tableau business dashboard.
 
-### 🚀 Orion 7 Rover Mission Control
+**Highlights**
+- 4 operational workbooks / 61 worksheets profiled
+- 897 transactions consolidated across 27 customer ledgers
+- Incremental PostgreSQL warehouse with dimensional analytics models
+- Automated data-quality checks, orchestration and testing
+- Tableau reporting for sales, collections and customer receivables
+- Dockerised development environment with Terraform infrastructure
 
-Python application built using OOP, TDD and layered software design to execute and validate multi-rover missions.
+`Python` · `PostgreSQL` · `dbt` · `Airflow` · `Docker` · `Terraform` · `FastAPI` · `Tableau`
 
-Includes command parsing, boundary protection, mission logging and automated testing.
-
-[View Project]
-
----
-
-## Background
-
-Before moving into Data Engineering, I worked across engineering, project delivery, operations, management and entrepreneurship.
-
-As founder of Pluto Packaging, I have worked directly with sales, customer, production and commercial data, giving me a practical understanding of why reliable data systems matter to a business.
-
-I later expanded that experience through intensive training in Data Engineering, cloud infrastructure, software engineering, AI and Machine Learning.
+📖 **[Explore the full project & README](https://github.com/jupiter5805/pluto-data-platform#readme)**
 
 ---
 
-## Interests
+## ⚡ Databricks Taxi Data Pipeline
 
-Data Engineering · Cloud Data Platforms · Analytics Engineering · Data Warehousing · Automation · AI/ML Infrastructure
+A move from traditional Python data processing into distributed data engineering.
 
-Outside technology, I enjoy cars, performance motorcycles, travelling, strength training and entrepreneurship.
+Built a Databricks pipeline around **250,000 NYC taxi journeys**, using PySpark and Spark SQL to clean, transform and analyse the dataset through a Delta-based workflow.
+
+**Highlights**
+- 250K journey dataset
+- PySpark transformations
+- Spark SQL analytics
+- Delta Lake / Databricks Volumes
+- Analytical visualisations
+
+`Databricks` · `PySpark` · `Spark SQL` · `Delta Lake`
+
+📖 **[Explore the project & README](https://github.com/jupiter5805/databricks-taxi-pipeline#readme)**
 
 ---
+
+## ☁️ Automated Cloud Data Pipeline — ToteSys
+
+An end-to-end serverless data pipeline built around an operational PostgreSQL source system.
+
+The pipeline extracts data incrementally, transforms it into analytical models and automatically delivers Parquet datasets into AWS while infrastructure, monitoring and security are managed as code.
+
+**Highlights**
+- Serverless AWS ETL
+- Incremental data ingestion
+- Dimensional modelling
+- Event-driven processing
+- Automated infrastructure and testing
+
+`Python` · `PostgreSQL` · `AWS Lambda` · `S3` · `Terraform` · `Parquet`
+
+📖 **[Explore the project & README](INSERT-TOTESYS-README-LINK)**
+
+---
+
+## 🤖 AI-Powered SMS Spam Classifier & RAG
+
+This started as a machine-learning classification problem and gradually turned into something much more interesting.
+
+Built an NLP pipeline for SMS classification and then extended it with semantic retrieval, conversational responses and RAG.
+
+**Results**
+- **97.8% accuracy**
+- **91.3% spam F1**
+- Semantic retrieval using Sentence Transformers
+- TinyLlama conversational responses
+- Automated testing and CI
+
+`Python` · `scikit-learn` · `TF-IDF` · `RAG` · `Sentence Transformers` · `TinyLlama`
+
+📖 **[Explore the project & README](https://github.com/jupiter5805/sms-spam-classifier#readme)**
+
+---
+
+## 🌐 PlusOne Event API
+
+A backend engineering project built around a simple question:
+
+> What does a proper API look like when authentication, relational data and application rules all have to work together?
+
+Built a REST API for users to create events, manage attendance and handle RSVP workflows securely.
+
+**Highlights**
+- JWT authentication
+- PostgreSQL relational modelling
+- Event and RSVP workflows
+- Duplicate RSVP protection
+- **47 automated tests**
+
+`FastAPI` · `Python` · `PostgreSQL` · `JWT` · `pytest`
+
+📖 **[Explore the project & README](INSERT-PLUSONE-README-LINK)**
+
+---
+
+## 🚀 Orion 7 Rover Mission Control
+
+A Python software-engineering project based around controlling multiple robotic rovers across bounded plateaus.
+
+The focus here wasn't cloud or data — it was writing clean software: objects, validation, separation of responsibilities, exception handling and tests.
+
+**Highlights**
+- Object-oriented architecture
+- Multiple rover control
+- Command parsing and validation
+- Boundary protection
+- Mission logging and JSON archives
+- Extensive automated testing
+
+`Python` · `OOP` · `TDD` · `pytest`
+
+📖 **[Explore the project & README](INSERT-ORION-README-LINK)**
+
+---
+
+## 🧠 What I Like Working On
+
+```text
+Messy operational data
+        ↓
+Clean ingestion
+        ↓
+Reliable pipelines
+        ↓
+Well-modelled data
+        ↓
+Cloud infrastructure
+        ↓
+Analytics / APIs / AI
+        ↓
+Something people can actually use
