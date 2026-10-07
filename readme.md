@@ -16,34 +16,21 @@ I'm especially interested in the space where **Data Engineering + Cloud + AI** s
 
 ## 🧰 Technology Stack
 
-### Data Engineering & Analytics
+### 🔗 Data Engineering & Analytics
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,postgres" />
-</p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" title="Python" alt="Python">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL" alt="PostgreSQL">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="45" title="Pandas" alt="Pandas">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="45" title="Apache Spark / PySpark" alt="Apache Spark">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="45" title="Apache Airflow" alt="Apache Airflow">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/dbt/FF694B" height="45" title="dbt" alt="dbt">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/databricks/FF3621" height="45" title="Databricks" alt="Databricks">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tableau/E97627" height="45" title="Tableau" alt="Tableau">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="45" title="Jupyter" alt="Jupyter"></p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="45" />
+### ☁️ Cloud & Infrastructure
 
-### Cloud & Infrastructure
+<p><img src="https://skillicons.dev/icons?i=aws" height="45" title="AWS" alt="AWS">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" title="Docker" alt="Docker">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="45" title="Terraform" alt="Terraform">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45" title="Linux" alt="Linux"></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform" />
-</p>
+### ⚙️ Backend & Software Engineering
 
-### Backend & Engineering
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="45" title="FastAPI" alt="FastAPI">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" title="Git" alt="Git">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub" alt="GitHub">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="45" title="GitHub Actions" alt="GitHub Actions">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="45" title="pytest" alt="pytest">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bash" height="45" title="Bash" alt="Bash"></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,git,github,githubactions" />
-</p>
+### 🤖 AI & Machine Learning
 
-### AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
-</p>
-
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="45" title="scikit-learn" alt="scikit-learn">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="45" title="PyTorch" alt="PyTorch">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" title="Hugging Face / Transformers" alt="Hugging Face">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="45" title="NumPy" alt="NumPy"></p>
 ---
 
 # 🚀 Featured Projects
