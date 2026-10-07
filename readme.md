@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Usman Mamoon 👋
+# Hi, I'm Muhammad 👋
 
 ### Data Engineering · Cloud · AI/ML
 
