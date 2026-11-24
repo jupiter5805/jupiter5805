@@ -40,7 +40,7 @@ I'm especially interested in the space where **Data Engineering + Cloud + AI** s
 
 The project closest to me personally.
 
-Instead of creating another synthetic dataset, I took operational data from **Pluto Packaging — the manufacturing business I founded —** and started engineering a proper data platform around it.
+Instead of creating another synthetic dataset, I took operational data from **Pluto Packaging** and started engineering a proper data platform around it.
 
 What started as fragmented Excel records now flows through ingestion, validation, PostgreSQL, dbt analytics models and Airflow orchestration into a Tableau business dashboard.
 
